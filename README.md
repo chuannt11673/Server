@@ -1,5 +1,6 @@
 # Server
 A web api application which provides restful apis using .Net Core 3.1
+
 Architecture: n-player
   - Core: contains Entities and EntityConfigurations
   - Infratructure: contains DbContext, Migrations, Repositories and UnitOfWork
