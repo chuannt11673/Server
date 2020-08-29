@@ -12,7 +12,7 @@ Technicals:
   - Ef Core
     - Fluent Api
     - Lazy loading
-    - Eager loading
+    - Explicit loading
   - FLuent validation
   - Auto mapper
   - Resize image
